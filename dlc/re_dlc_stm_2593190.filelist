@@ -1,4 +1,4 @@
-; 74/79 (93%)
+; 79/79 (100%)
 natives/stm/appdata/extracontents/contents_0004.scn.20
 natives/stm/appdata/extracontents/contents_0004/extrabgm.scn.20
 natives/stm/sound/resource/bgm/twr_battle/adv/bgm_twr_battle_advantage_01_d_containerlistdata.user.2
@@ -71,5 +71,10 @@ natives/stm/streaming/sound/wwise/bgm_twr_battle_advantage_01_d.spck.1.x64
 natives/stm/streaming/sound/wwise/bgm_twr_battle_normal_01_d.spck.1.x64
 natives/stm/streaming/sound/wwise/bgm_twr_battle_normal_02_d.spck.1.x64
 natives/stm/streaming/sound/wwise/bgm_twr_battle_normal_03_d.spck.1.x64
+natives/stm/streaming/sound/wwise/bgm_twr_battle_unique_uq_01_d.spck.1.x64
+natives/stm/streaming/sound/wwise/bgm_twr_battle_unique_uq_03_d.spck.1.x64
 natives/stm/streaming/sound/wwise/bgm_twr_field_all_d.spck.1.x64
+natives/stm/streaming/sound/wwise/bgm_twr_ovw_qu010190_02_d.spck.1.x64
+natives/stm/streaming/sound/wwise/bgm_twr_ovw_qu030140_d.spck.1.x64
+natives/stm/streaming/sound/wwise/bgm_twr_ovw_qu030230_d.spck.1.x64
 natives/stm/streaming/sound/wwise/bgm_twr_system_d.spck.1.x64
