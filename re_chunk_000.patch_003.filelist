@@ -1,4 +1,4 @@
-; 4286/4340 (98%)
+; 4300/4340 (99%)
 natives/stm/animation/ch/ch00/motlist/ch00_000_com.motlist.751
 natives/stm/animation/ch/ch00/motlist/ch00_000_comrd.motlist.751
 natives/stm/animation/ch/ch00/motlist/ch00_002_atk.motlist.751
@@ -1130,6 +1130,7 @@ natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_interactgm
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_interactgm81_005.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_passitem.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_perform_chiling_dragonpossession.user.2
+natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_perform_chiling_dragonpossession_2.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_perform_chiling_duringselftalking_female.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_perform_chiling_duringselftalking_female_02.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/common/pawn_perform_chilling_01.user.2
@@ -1213,6 +1214,7 @@ natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_cr
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_horizontalslash_charged.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_indomitablelash_charged.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_landslide_charged.user.2
+natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_releaseattack.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_springboard_01.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_springboard_02.user.2
 natives/stm/appsystem/ai/actioninterface/actinterpackdata/job05_warrior/job05_springboard_03.user.2
@@ -1360,6 +1362,7 @@ natives/stm/appsystem/ai/decision/pack/job05_indomitablelash_gimmick.user.2
 natives/stm/appsystem/ai/decision/pack/job05_landslide.user.2
 natives/stm/appsystem/ai/decision/pack/job05_landslide_gimmick.user.2
 natives/stm/appsystem/ai/decision/pack/job05_normalcomboattack_gimmick.user.2
+natives/stm/appsystem/ai/decision/pack/job05_releaseattack.user.2
 natives/stm/appsystem/ai/decision/pack/job06_addflare.user.2
 natives/stm/appsystem/ai/decision/pack/job06_blizzard.user.2
 natives/stm/appsystem/ai/decision/pack/job06_blizzard_spot.user.2
@@ -1419,6 +1422,9 @@ natives/stm/appsystem/ai/goalplanning/goaldata/aigoaldata_2421770698.user.2
 natives/stm/appsystem/ai/goalplanning/goaldata/aigoaldata_2978440453.user.2
 natives/stm/appsystem/ai/goalplanning/goaldata/aigoaldata_3178311183.user.2
 natives/stm/appsystem/ai/goalplanning/goaldata/aigoaldata_3935254730.user.2
+natives/stm/appsystem/ai/goalplanning/goaldata/aigoaldata_4112410591.user.2
+natives/stm/appsystem/ai/situation/situationevaluationdata/situationevaluation_104857925.user.2
+natives/stm/appsystem/ai/situation/situationevaluationdata/situationevaluation_1912290925.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_0_1_036.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_0_1_041.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_0_1_042.user.2
@@ -2375,6 +2381,7 @@ natives/stm/appsystem/ai/situation/taskdata/aitask_1_84_013.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_1_84_014.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_1_84_015.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_1_84_016.user.2
+natives/stm/appsystem/ai/situation/taskdata/aitask_1_84_017.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_1_85_003.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_1_85_005.user.2
 natives/stm/appsystem/ai/situation/taskdata/aitask_1_85_006.user.2
@@ -3095,8 +3102,14 @@ natives/stm/appsystem/ch/common/human/userdata/parameter/job07parameter.user.2
 natives/stm/appsystem/ch/common/human/userdata/parameter/makersfingerparameteruserdata.user.2
 natives/stm/appsystem/ch/common/monster/userdata/largemonsterdamagereactionparam.user.2
 natives/stm/appsystem/ch/common/monster/userdata/lod/ch255lodprocessrule.user.2
+natives/stm/appsystem/ch/common/monster/userdata/lod/ch255monsterragdolllodprocessrule.user.2
+natives/stm/appsystem/ch/common/monster/userdata/lod/ch258monsterragdolllodprocessrule.user.2
+natives/stm/appsystem/ch/common/monster/userdata/lod/ch259lodprocessrule.user.2
+natives/stm/appsystem/ch/common/monster/userdata/lod/ch259monsterragdolllodprocessrule.user.2
 natives/stm/appsystem/ch/common/monster/userdata/lod/ch258000lodprocessrule.user.2
+natives/stm/appsystem/ch/common/monster/userdata/lod/largemonsterragdolllodprocessrule.user.2
 natives/stm/appsystem/ch/common/monster/userdata/lod/monsterlodprocessrule.user.2
+natives/stm/appsystem/ch/common/monster/userdata/lod/monsterragdolllodprocessrule.user.2
 natives/stm/appsystem/ch/common/monster/userdata/monsterdamagereactionparam.user.2
 natives/stm/appsystem/ch/common/userdata/characterobjectclimberparameter.user.2
 natives/stm/appsystem/ch/common/userdata/commonragdolldamagereactiondata.user.2
@@ -4254,6 +4267,7 @@ natives/stm/gui/ui01/ui0131/ui013109/uvs_ui013109.uvs.8
 natives/stm/gui/ui01/ui0136/ui013602/tex_ui013602_01_iam.tex.760230703
 natives/stm/gui/ui01/ui0136/ui013602/ui013602_00.gui.620035
 natives/stm/gui/ui01/ui0136/ui013602/uvs_ui013602_01.uvs.8
+natives/stm/gui/ui02/ui0207/tex_ui020701_01_iam.tex.760230703
 natives/stm/gui/ui02/ui0207/uvs_ui020701_01.uvs.8
 natives/stm/gui/ui07/ui0704/ui070406_01.gui.620035
 natives/stm/gui/ui99/01/dng_04/1_0002_iam.tex.760230703

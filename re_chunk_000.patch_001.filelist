@@ -1,4 +1,4 @@
-; 426/452 (94%)
+; 427/452 (94%)
 natives/stm/animation/ch/ch00/motlist/ch00_004_atk.motlist.751
 natives/stm/appdata/contents/_hlod/shader_hlod_content.mmtr.240112003
 natives/stm/appdata/extracontents/contents_0001.scn.20
@@ -86,6 +86,7 @@ natives/stm/appdata/quest/qu02/qu020230/env_1508.scn.20
 natives/stm/appdata/quest/qu02/qu020230/env_1572.scn.20
 natives/stm/appdata/quest/qu02/qu020230/qu020230.scn.20
 natives/stm/appdata/quest/qu02/qu020230/resident.scn.20
+natives/stm/appdata/quest/qu02/qu029200/env_1572.scn.20
 natives/stm/appdata/quest/qu02/qu029200/qu029200.scn.20
 natives/stm/appdata/quest/qu02/qu029200/resident.scn.20
 natives/stm/appsystem/ch/ch230/prefab/ch230100_04.pfb.17
