@@ -1,4 +1,4 @@
-; 4300/4340 (99%)
+; 4304/4340 (99%)
 natives/stm/animation/ch/ch00/motlist/ch00_000_com.motlist.751
 natives/stm/animation/ch/ch00/motlist/ch00_000_comrd.motlist.751
 natives/stm/animation/ch/ch00/motlist/ch00_002_atk.motlist.751
@@ -2711,6 +2711,7 @@ natives/stm/appsystem/ch/ch221/002/motionfsm/ch221002.motfsm2.43
 natives/stm/appsystem/ch/ch221/003/motionfsm/ch221003.motfsm2.43
 natives/stm/appsystem/ch/ch221/003/userdata/ch221003shellparamdata.user.2
 natives/stm/appsystem/ch/ch221/004/motionfsm/ch221004.motfsm2.43
+natives/stm/appsystem/ch/ch221/motionfsm/ch221.motfsm2.43
 natives/stm/appsystem/ch/ch221/prefab/ch221000_00.pfb.17
 natives/stm/appsystem/ch/ch221/prefab/ch221001_00.pfb.17
 natives/stm/appsystem/ch/ch221/prefab/ch221002_00.pfb.17
@@ -2758,6 +2759,7 @@ natives/stm/appsystem/ch/ch225/prefab/ch225001_00.pfb.17
 natives/stm/appsystem/ch/ch225/prefab/ch225002_00.pfb.17
 natives/stm/appsystem/ch/ch225/userdata/ch225param.user.2
 natives/stm/appsystem/ch/ch225/userdata/ch225shellparamdata.user.2
+natives/stm/appsystem/ch/ch226/motionfsm/ch226.motfsm2.43
 natives/stm/appsystem/ch/ch226/motionfsm/ch226_job00_apperbody.motfsm2.43
 natives/stm/appsystem/ch/ch226/motionfsm/ch226_job01.motfsm2.43
 natives/stm/appsystem/ch/ch226/motionfsm/ch226_job01_apperbody.motfsm2.43
@@ -2931,6 +2933,7 @@ natives/stm/appsystem/ch/ch253/001/userdata/ch253001wingdarkbulletsshellparamdat
 natives/stm/appsystem/ch/ch253/010/userdata/ch253010commonparam.user.2
 natives/stm/appsystem/ch/ch253/010/userdata/ch253010shellparamdata.user.2
 natives/stm/appsystem/ch/ch253/011/userdata/ch253011shellparamdata.user.2
+natives/stm/appsystem/ch/ch253/motionfsm/ch253.motfsm2.43
 natives/stm/appsystem/ch/ch253/motionfsm/ch253000.motfsm2.43
 natives/stm/appsystem/ch/ch253/motionfsm/ch253001.motfsm2.43
 natives/stm/appsystem/ch/ch253/motionfsm/ch253010.motfsm2.43
@@ -2971,6 +2974,7 @@ natives/stm/appsystem/ch/ch255/000/userdata/ch255000shellparamdata.user.2
 natives/stm/appsystem/ch/ch255/010/userdata/ch255010breathshellparamdata.user.2
 natives/stm/appsystem/ch/ch255/010/userdata/ch255010shellparamdata.user.2
 natives/stm/appsystem/ch/ch255/010/userdata/ch255011shellparamdata.user.2
+natives/stm/appsystem/ch/ch255/motionfsm/ch255.motfsm2.43
 natives/stm/appsystem/ch/ch255/motionfsm/ch255000.motfsm2.43
 natives/stm/appsystem/ch/ch255/prefab/ch255000_00.pfb.17
 natives/stm/appsystem/ch/ch255/prefab/ch255000_01.pfb.17
